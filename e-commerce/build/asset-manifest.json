@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d108fdf3.css",
+    "main.js": "/static/js/main.0bc2fda0.js",
+    "static/media/about-us-page-heading.jpg": "/static/media/about-us-page-heading.87a4aaa41360e7d55b4c.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.d0ba16d89d53283e819b.svg",
+    "static/media/products-page-heading.jpg": "/static/media/products-page-heading.b430461bf93d2734258d.jpg",
+    "static/media/about-left-image.jpg": "/static/media/about-left-image.ad7b77d9a3f118f38879.jpg",
+    "static/media/team-member-01.jpg": "/static/media/team-member-01.254b1f2fd95f13194136.jpg",
+    "static/media/left-banner-image.jpg": "/static/media/left-banner-image.f123e64154b135acf201.jpg",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.45f9f92a5bfbad4be12f.ttf",
+    "static/media/baner-right-image-04.jpg": "/static/media/baner-right-image-04.37648f062062c80a73e5.jpg",
+    "static/media/baner-right-image-03.jpg": "/static/media/baner-right-image-03.8fc958d1965e894531a0.jpg",
+    "static/media/baner-right-image-01.jpg": "/static/media/baner-right-image-01.68cd250bf4312e2ef654.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.c589f72df384e3ef078b.woff",
+    "static/media/explore-image-01.jpg": "/static/media/explore-image-01.b85602b8598b3ef2b2aa.jpg",
+    "static/media/service-01.jpg": "/static/media/service-01.a35db9f3fce0393d867e.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.03605b2467d43a9f4c63.eot",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.fb685a7c7e4aae2d4d71.woff2",
+    "static/media/baner-right-image-02.jpg": "/static/media/baner-right-image-02.54ba44bcc6e82c39b25d.jpg",
+    "static/media/instagram-01.jpg": "/static/media/instagram-01.459ccb34d9ec89eeb712.jpg",
+    "static/media/flexslider-icon.svg": "/static/media/flexslider-icon.b1ded4b15ae90bc8f88e.svg",
+    "static/media/flexslider-icon.eot": "/static/media/flexslider-icon.0c4bb125c0f3d608f400.eot",
+    "static/media/flexslider-icon.ttf": "/static/media/flexslider-icon.c6c9e9e5197006950550.ttf",
+    "static/media/flexslider-icon.woff": "/static/media/flexslider-icon.b5aefbb787e9e5f6aa2a.woff",
+    "index.html": "/index.html",
+    "main.d108fdf3.css.map": "/static/css/main.d108fdf3.css.map",
+    "main.0bc2fda0.js.map": "/static/js/main.0bc2fda0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d108fdf3.css",
+    "static/js/main.0bc2fda0.js"
+  ]
+}
